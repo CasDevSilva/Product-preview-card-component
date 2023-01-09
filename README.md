@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/CasDevSilva/Product-preview-card-component)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://bright-biscotti-9ee060.netlify.app/)
 
 ## My process
 
